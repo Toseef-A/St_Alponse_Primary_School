@@ -1,1 +1,13 @@
-This project was about creating a back-end development database for St. Alphonsus primary school because previously they were using a pen and paper model which was very time consuming and inefficient. For this reason, the assignment was to create a web-based digital system, including a relational database to hold all the data digitally and make the system more efficient. Before making the database, an entity relationship diagram had to be made to not only describe the relationship between tables but to also get a preview of what the database would look like.
+St. Alphonsus Primary School Database Project
+
+This project, undertaken as an assignment for a module during my bachelor's degree at University Academy 92, aimed to address the inefficiencies of the manual pen-and-paper model used by St. Alphonsus Primary School. The objective was to create a web-based digital system, including a relational database, to streamline operations and improve efficiency.
+
+The assignment entailed:
+
+Digital Transformation: Transitioning from a manual pen-and-paper model to a digital system to enhance efficiency and productivity.
+
+Database Development: Designing and implementing a relational database to store all school-related data digitally.
+
+Entity Relationship Diagram (ERD): Creating an ERD to visualize and define the relationships between different entities within the database, providing a blueprint for the database structure.
+
+By completing this project, the aim was to modernize the school's data management system, paving the way for smoother operations and improved productivity.
